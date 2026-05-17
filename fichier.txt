@@ -1,0 +1,14 @@
+Bonjour tout le monde
+
+Le C est un langage compile.
+
+Il est cree par Dennis
+
+Ritchie en 1970
+
+
+while (fread(&x, sizeof(int), 1 , f2) == 1)
+{
+    printf("%d ", x);
+}
+    

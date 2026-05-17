@@ -1,0 +1,5 @@
+Bonjour tout le monde
+Le C est un langage compile.
+Il est cree par Dennis
+Ritchie en 1970
+
